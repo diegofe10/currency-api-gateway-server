@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.netflixzuulapigatewayserver;
+package br.com.currency.api.gateway.server;
 
 import javax.servlet.http.HttpServletRequest;
 

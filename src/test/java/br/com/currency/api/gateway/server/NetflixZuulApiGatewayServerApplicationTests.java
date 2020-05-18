@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.netflixzuulapigatewayserver;
+package br.com.currency.api.gateway.server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
