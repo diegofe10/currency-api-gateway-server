@@ -25,7 +25,7 @@ Gateway Server responsible for provides capabilities for:
 -   Docker: [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
 -   Maven: [https://maven.apache.org/install.html](https://maven.apache.org/install.html)
 
-## Starting services 
+## Starting services
 
 ### 1. Build Project
 
