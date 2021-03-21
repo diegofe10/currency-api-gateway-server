@@ -1,6 +1,6 @@
 # Currency API Gateway Server
 
-An API Gateway Server with Java 8, Spring Cloud Finchley M8, Netflix Zuul,  Spring Cloud Sleuth, Zipkin and Spring Cloud Starter Bus, JUnit 4
+An API Gateway Server with Java 8, Spring Cloud Finchley M8, Netflix Zuul,  Spring Cloud Sleuth, Zipkin and Spring Cloud Starter Bus, JUnit 4 for unit testing
 
 ## Reference Documentation
 
